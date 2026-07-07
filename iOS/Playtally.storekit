@@ -1,0 +1,42 @@
+{
+  "identifier": "playtally",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Playtally Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "playtally_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Weekly enrichment goal tracking with activity variety suggestions",
+              "displayName": "Playtally Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "playtally_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Playtally Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
